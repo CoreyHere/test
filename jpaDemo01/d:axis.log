@@ -1,0 +1,48 @@
+2020-08-01 09:43:50,289 0      [           main] INFO  te.jpa.internal.util.LogHelper  - HHH000204: Processing PersistenceUnitInfo [
+	name: myJPA
+	...]
+2020-08-01 09:43:50,365 76     [           main] INFO           org.hibernate.Version  - HHH000412: Hibernate Core {5.0.7.Final}
+2020-08-01 09:43:50,366 77     [           main] INFO   org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+2020-08-01 09:43:50,367 78     [           main] INFO   org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+2020-08-01 09:43:50,407 118    [           main] INFO  ate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2020-08-01 09:43:50,536 247    [           main] WARN   org.hibernate.orm.connections  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-08-01 09:43:50,539 250    [           main] INFO   org.hibernate.orm.connections  - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://192.168.144.157:3306/jpa]
+2020-08-01 09:43:50,539 250    [           main] INFO   org.hibernate.orm.connections  - HHH10001001: Connection properties: {user=root, password=****}
+2020-08-01 09:43:50,540 251    [           main] INFO   org.hibernate.orm.connections  - HHH10001003: Autocommit mode: false
+2020-08-01 09:43:50,542 253    [           main] INFO  rManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-08-01 09:43:50,785 496    [           main] INFO   org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-08-01 09:43:50,816 527    [           main] INFO  internal.LobCreatorBuilderImpl  - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2020-08-01 09:43:51,069 780    [           main] INFO  alidator.internal.util.Version  - HV000001: Hibernate Validator 5.2.1.Final
+2020-08-01 09:43:51,372 1083   [           main] INFO  nate.tool.hbm2ddl.SchemaUpdate  - HHH000228: Running hbm2ddl schema update
+2020-08-01 09:44:07,483 0      [           main] INFO  te.jpa.internal.util.LogHelper  - HHH000204: Processing PersistenceUnitInfo [
+	name: myJPA
+	...]
+2020-08-01 09:44:07,545 62     [           main] INFO           org.hibernate.Version  - HHH000412: Hibernate Core {5.0.7.Final}
+2020-08-01 09:44:07,546 63     [           main] INFO   org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+2020-08-01 09:44:07,547 64     [           main] INFO   org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+2020-08-01 09:44:07,583 100    [           main] INFO  ate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2020-08-01 09:44:07,697 214    [           main] WARN   org.hibernate.orm.connections  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-08-01 09:44:07,701 218    [           main] INFO   org.hibernate.orm.connections  - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://192.168.144.157:3306/jpa]
+2020-08-01 09:44:07,701 218    [           main] INFO   org.hibernate.orm.connections  - HHH10001001: Connection properties: {user=root, password=****}
+2020-08-01 09:44:07,701 218    [           main] INFO   org.hibernate.orm.connections  - HHH10001003: Autocommit mode: false
+2020-08-01 09:44:07,704 221    [           main] INFO  rManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-08-01 09:44:07,984 501    [           main] INFO   org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-08-01 09:44:08,024 541    [           main] INFO  internal.LobCreatorBuilderImpl  - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2020-08-01 09:44:08,295 812    [           main] INFO  alidator.internal.util.Version  - HV000001: Hibernate Validator 5.2.1.Final
+2020-08-01 09:44:08,573 1090   [           main] INFO  nate.tool.hbm2ddl.SchemaUpdate  - HHH000228: Running hbm2ddl schema update
+2020-08-01 09:47:48,867 0      [           main] INFO  te.jpa.internal.util.LogHelper  - HHH000204: Processing PersistenceUnitInfo [
+	name: myJPA
+	...]
+2020-08-01 09:47:48,936 69     [           main] INFO           org.hibernate.Version  - HHH000412: Hibernate Core {5.0.7.Final}
+2020-08-01 09:47:48,937 70     [           main] INFO   org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+2020-08-01 09:47:48,938 71     [           main] INFO   org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+2020-08-01 09:47:48,975 108    [           main] INFO  ate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2020-08-01 09:47:49,100 233    [           main] WARN   org.hibernate.orm.connections  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-08-01 09:47:49,103 236    [           main] INFO   org.hibernate.orm.connections  - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://192.168.144.157:3306/jpa]
+2020-08-01 09:47:49,103 236    [           main] INFO   org.hibernate.orm.connections  - HHH10001001: Connection properties: {user=root, password=****}
+2020-08-01 09:47:49,103 236    [           main] INFO   org.hibernate.orm.connections  - HHH10001003: Autocommit mode: false
+2020-08-01 09:47:49,106 239    [           main] INFO  rManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-08-01 09:47:53,974 5107   [           main] INFO   org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-08-01 09:47:54,006 5139   [           main] INFO  internal.LobCreatorBuilderImpl  - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2020-08-01 09:47:54,242 5375   [           main] INFO  alidator.internal.util.Version  - HV000001: Hibernate Validator 5.2.1.Final
+2020-08-01 09:47:54,530 5663   [           main] INFO  nate.tool.hbm2ddl.SchemaUpdate  - HHH000228: Running hbm2ddl schema update
